@@ -1,0 +1,132 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Err.png" />
+    <None Remove="Imgs\Ctrl\x.png" />
+    <None Remove="Imgs\Ctrl\x1.png" />
+    <None Remove="Imgs\Dash\883300.png" />
+    <None Remove="Imgs\Dash\ad0aa0475d911123fe56b2b02337d2f9f343e75e0f28dfa52e14fdc45c41ee75-removebg-preview.png" />
+    <None Remove="Imgs\Dash\add-company.png" />
+    <None Remove="Imgs\Dash\companys.png" />
+    <None Remove="Imgs\Dash\ControlePanel.png" />
+    <None Remove="Imgs\Dash\download-removebg-preview.png" />
+    <None Remove="Imgs\Dash\info.png" />
+    <None Remove="Imgs\Dash\min.png" />
+    <None Remove="Imgs\Dash\min1.png" />
+    <None Remove="Imgs\Dash\refreshreloadupdateicon-1320191166843452904.png" />
+    <None Remove="Imgs\Dash\review.png" />
+    <None Remove="Imgs\Dash\update.png" />
+    <None Remove="Imgs\Login\add-user.png" />
+    <None Remove="Imgs\Login\cherry-667.png" />
+    <None Remove="Imgs\Login\exit1.png" />
+    <None Remove="Imgs\Login\exit2.png" />
+    <None Remove="Imgs\Login\login.png" />
+    <None Remove="Imgs\Login\pDown.png" />
+    <None Remove="Imgs\Login\pDown1.png" />
+    <None Remove="Imgs\Login\polar-lock-1.png" />
+    <None Remove="Imgs\Login\polar-lock.png" />
+    <None Remove="Imgs\Login\redlock.png" />
+    <None Remove="Imgs\Login\redlock1.png" />
+    <None Remove="Imgs\Login\sign-in-4.png" />
+    <None Remove="Imgs\Login\user %281%29.png" />
+    <None Remove="Imgs\Login\user %282%29.png" />
+    <None Remove="Imgs\Login\user %283%29.png" />
+    <None Remove="Imgs\Login\user %284%29.png" />
+    <None Remove="Imgs\Login\user %285%29.png" />
+    <None Remove="Imgs\Login\user.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Imgs\Dash\info.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Err.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySql.Data" Version="8.0.28" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Imgs\Ctrl\x.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imgs\Ctrl\x1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imgs\Dash\ControlePanel.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imgs\Dash\add-company.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imgs\Dash\companys.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imgs\Dash\min1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imgs\Dash\min.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imgs\Dash\review.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imgs\Dash\update.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imgs\Login\pDown.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Imgs\Login\cherry-667.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imgs\Login\exit1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imgs\Login\exit2.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imgs\Login\pDown1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imgs\Login\polar-lock-1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imgs\Login\polar-lock.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imgs\Login\redlock.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Imgs\Login\redlock1.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Imgs\AddComp\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="CMA_Libary">
+      <HintPath>..\..\source\repos\CMA_Libary\CMA_Libary\bin\Debug\net6.0\CMA_Libary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
