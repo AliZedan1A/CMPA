@@ -6,5 +6,5 @@
 #### 3.Easy access to data
 #### 4.Design perfect
 #### 5.manage users
-#How to Install In linux
-### ``` git clone https://github.com/AliZedan1A/CMPA ```
+# How to Install In linux
+#### ``` git clone https://github.com/AliZedan1A/CMPA ```
