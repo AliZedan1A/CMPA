@@ -7,4 +7,4 @@
 #### 4.Design perfect
 #### 5.manage users
 #How to Install In linux
-``` git clone https://github.com/AliZedan1A/CMPA ```
+# ``` git clone https://github.com/AliZedan1A/CMPA ```
