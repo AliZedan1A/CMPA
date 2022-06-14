@@ -1,5 +1,3 @@
-CMPA:
-CMPA is a project to organize companies for the system of companies organizing workers and users, and there are other features such as adding a company, deleting a company, modifying and logging in, and everything related to protection
-
-Databases are handled
-There is also a special library for taking data called CMPA_LIBARY
+# Corporate management application 
+### A Windows application to control a group of companies and employees, their salaries and their interactions
+# Project Features
