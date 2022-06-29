@@ -9,4 +9,13 @@
 # How to Install In linux
 #### ``` git clone https://github.com/AliZedan1A/CMPA ```
 # Photos of the application
+### 1.Dashboard
+![alt text](https://cdn.discordapp.com/attachments/596690901322039327/991679097119969371/unknown.png)
+### 2.UserManger
+![alt text](https://cdn.discordapp.com/attachments/596690901322039327/991679096809603072/unknown.png)
+### 3.Controle Panel
+![alt text](https://cdn.discordapp.com/attachments/596690901322039327/991679096587288606/unknown.png)
+### 4.Controle Panel For Company
+![alt text](https://cdn.discordapp.com/attachments/596690901322039327/991679096587288606/unknown.png)
+### 5.Controle Panel For Company Members
 ![alt text](https://cdn.discordapp.com/attachments/596690901322039327/991679096025268274/unknown.png)
