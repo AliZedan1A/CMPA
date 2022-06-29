@@ -9,10 +9,10 @@
 # How to Install In linux
 #### ``` git clone https://github.com/AliZedan1A/CMPA ```
 # How to run the project
-###1.Download the project from Github
-###2.Providing a local host database
-###3.You have the latest .NET version on your device
-###4.The presence of visual studio to facilitate the work environment
+### 1.Download the project from Github
+### 2.Providing a local host database
+### 3.You have the latest .NET version on your device
+### 4.The presence of visual studio to facilitate the work environment
 # Photos of the application
 ### 1.Dashboard
 ![alt text](https://cdn.discordapp.com/attachments/596690901322039327/991679097119969371/unknown.png)
